@@ -1,2 +1,2 @@
-# EPBIC-PEA
-This repository stores the supplementary of the EPBIC-PEA
+# BCP-EA
+This repository stores the supplementary of the BCP-EA
