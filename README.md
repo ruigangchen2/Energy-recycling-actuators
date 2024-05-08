@@ -1,2 +1,2 @@
-# BCP-EA
-This repository stores the supplementary of the BCP-EA
+# Energy-recycling actuators
+This repository stores the supplementary of the Energy-recycling actuators
